@@ -8,49 +8,49 @@
   },
 
   "site": {
-    "name": "Kampung Dosay",
+    "name": "Kampung Kwadeware",
     "logoText": {
       "primary": "KAMPUNG",
-      "secondary": "DOSAY"
+      "secondary": "KWADEWARE"
     },
-    "tagline": "Distrik Sentani Barat • Kabupaten Jayapura • Provinsi Papua",
-    "url": "https://kampungdosay.id/",
+    "tagline": "Distrik Waibu • Kabupaten Jayapura • Provinsi Papua",
+    "url": "https://kampungkwadeware.id/",
     "logo": "./images/logo-kabupaten-jayapura.png",
     "favicon": "./images/logo-kabupaten-jayapura.png",
     "themeColor": "#1a3c34"
   },
 
   "meta": {
-    "title": "Kampung Dosay - Distrik Sentani Barat, Jayapura",
-    "description": "Kampung Dosay, Distrik Sentani Barat, Kabupaten Jayapura, Provinsi Papua. Kaya akan budaya, alam, dan tradisi Suku Sentani.",
-    "keywords": "Kampung Dosay, Sentani Barat, Kabupaten Jayapura, Papua, Danau Sentani, wisata kampung, budaya Sentani, adat Papua",
-    "author": "Kampung Dosay",
-    "ogTitle": "Kampung Dosay - Distrik Sentani Barat, Jayapura",
-    "ogDescription": "Kampung yang terletak di bawah kaki Gunung Cyloop, memiliki potensi sumber daya alam dan daya tarik wisata.",
+    "title": "Kampung Kwadeware - Distrik Waibu, Jayapura",
+    "description": "Kampung Kwadeware, Distrik Waibu, Kabupaten Jayapura, Provinsi Papua. Destinasi wisata alam di tepian Danau Sentani yang kaya budaya dan tradisi.",
+    "keywords": "Kampung Kwadeware, Waibu, Kabupaten Jayapura, Papua, Danau Sentani, wisata kampung, Tarian Isoro, budaya Sentani, adat Papua, Taman Inspirasi Waibu",
+    "author": "Kampung Kwadeware",
+    "ogTitle": "Kampung Kwadeware - Distrik Waibu, Jayapura",
+    "ogDescription": "Kampung di tepian Danau Sentani yang memiliki potensi wisata alam, budaya Tarian Isoro, dan ekonomi kreatif Taman Inspirasi Waibu.",
     "ogImage": "./images/logo-kabupaten-jayapura.png",
-    "twitterTitle": "Kampung Dosay - Distrik Sentani Barat, Jayapura",
-    "twitterDescription": "Kampung adat di Distrik Sentani Barat, Kab. Jayapura, Papua",
+    "twitterTitle": "Kampung Kwadeware - Distrik Waibu, Jayapura",
+    "twitterDescription": "Kampung adat di tepian Danau Sentani, Distrik Waibu, Kab. Jayapura, Papua",
     "twitterImage": "./images/logo-kabupaten-jayapura.png"
   },
 
   "hero": {
-    "title": "KAMPUNG DOSAY",
-    "subtitle": "Distrik Sentani Barat • Kabupaten Jayapura • Papua",
-    "description": "Kampung yang terletak di Distrik Sentani Barat, Kab. Jayapura, Papua, memiliki potensi sumber daya alam dan menawarkan keindahan alam Papua yang tak ternilai.",
+    "title": "KAMPUNG KWADEWARE",
+    "subtitle": "Distrik Waibu • Kabupaten Jayapura • Papua",
+    "description": "Kampung di tepian Danau Sentani, Distrik Waibu, Kab. Jayapura, Papua — kaya akan budaya Tarian Isoro, wisata alam, dan ekonomi kreatif Taman Inspirasi Waibu.",
     "slides": [
-      "./images/gallery/dosay-anggrek.png",
-      "./images/gallery/dosay-berkemah-dansari.png",
-      "./images/gallery/dosay-kali-dansari.png",
-      "./images/gallery/dosay-traditional-dance.png"
+      "https://images.unsplash.com/photo-1657458283515-b91a7e33f316?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://yotorohills.github.io/images/gallery/4.jpg",
+      "https://yotorohills.github.io/images/gallery/3.jpg",
+      "https://yotorohills.github.io/images/gallery/6.jpg"
     ]
   },
 
   "contact": {
-    "addressHtml": "Kampung Dosay, Distrik Sentani Barat,<br>Kabupaten Jayapura, Provinsi Papua",
+    "addressHtml": "Kampung Kwadeware, Distrik Waibu,<br>Kabupaten Jayapura, Provinsi Papua",
     "phoneDisplay": "+62 8xx-xxxx-xxxx",
     "whatsappNumber": "628xxxxxxxxx",
-    "whatsappMessage": "Halo Admin Kampung Dosay, saya ingin bertanya seputar Kampung Dosay.",
-    "email": "kampungdosay@gmail.com",
+    "whatsappMessage": "Halo Admin Kampung Kwadeware, saya ingin bertanya seputar Kampung Kwadeware.",
+    "email": "kampungkwadeware@gmail.com",
     "operationalHours": "Senin – Jumat: 08.00 – 16.00 WIT",
     "social": {
       "facebook": "#",
@@ -59,8 +59,8 @@
   },
 
   "footer": {
-    "copyright": "© 2026 Pemerintah Kampung Dosay. Hak cipta dilindungi.",
-    "note": "Menjaga warisan budaya Lembah Moi dan keindahan alam Pegunungan Cycloop — Papua.",
+    "copyright": "© 2026 Pemerintah Kampung Kwadeware. Hak cipta dilindungi.",
+    "note": "Menjaga warisan budaya Danau Sentani dan kearifan lokal Suku Sentani — Papua.",
     "poweredByName": "Nokensoft.com",
     "poweredByUrl": "https://nokensoft.com"
   }
