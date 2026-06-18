@@ -38,9 +38,9 @@
     "subtitle": "Distrik Waibu • Kabupaten Jayapura • Papua",
     "description": "Kampung di tepian Danau Sentani, Distrik Waibu, Kab. Jayapura, Papua — kaya akan budaya Tarian Isoro, wisata alam, dan ekonomi kreatif Taman Inspirasi Waibu.",
     "slides": [
-      "https://images.unsplash.com/photo-1657458283515-b91a7e33f316?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "https://yotorohills.github.io/images/gallery/4.jpg",
-      "https://yotorohills.github.io/images/gallery/3.jpg",
+      "./images/gallery/kwadeware-tarian-perahu.png",
+      "./images/gallery/kwadeware-panorama-sunset.png",
+      "./images/gallery/kwadeware-batu-beranak.png",
       "https://yotorohills.github.io/images/gallery/6.jpg"
     ]
   },
